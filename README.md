@@ -15,5 +15,3 @@ Each member of the team focuses on a specific disease, using advanced analytics 
 - **Youssef Wagdy**: *Insulin Resistance*
 - **Basel Mohamed**: *Parkinson's Disease*
 - **Abdelrahman Ali**: *Chronic Kidney Disease*
-"# HealthcarePredictiveAnalysis" 
-"# HealthcarePredictiveAnalysis" 
